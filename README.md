@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Egor-Sha
+- 👋 Hi, I’m Egor Shalaev
 - 👀 I’m interested in JS Technologies
 - 🌱 I’m currently learning JS and React JS 
 - 💞️ I’m looking to collaborate on ...
