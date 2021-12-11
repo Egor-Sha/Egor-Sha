@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Egor Shalaev
-- 👀 I’m interested in JS Technologies
-- 🌱 I’m currently learning QA Automation with Selenium Java and Cypress
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in QA Automation Technologies
+- 🌱 I’m currently learning QA Automation via Java/Selenium and JS/Cypress
+- 💞️ QA Engineer since 2020
 
 <!---
 Egor-Sha/Egor-Sha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
