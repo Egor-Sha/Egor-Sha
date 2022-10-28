@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Egor Shalaev
-- 👀 I’m interested in QA Automation Technologies
-- 🌱 I’m currently learning QA Automation via Java/Selenium and JS/Cypress
+- :chicken: Working with manual testing technologies and Playwright JS
+- 🌱 Currently learning QA Automation and Java
 - 💞️ QA Engineer since 2020
 
 <!---
