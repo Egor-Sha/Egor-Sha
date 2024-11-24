@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Egor Shalaev
 - :chicken: Working with manual testing technologies and Playwright JS
-- 🌱 Currently learning QA Automation and Java
+- 🌱 Currently learning QA Automation and AWS Cloud Technologies
 - 💞️ QA Engineer since 2020
 
 <!---
